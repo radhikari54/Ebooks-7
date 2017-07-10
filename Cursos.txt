@@ -1,0 +1,204 @@
+﻿Macarrom@1 -- Paypal
+
+/* Cursos ebook */
+
+Horario no laboral:
+Lunes: Pro AngularJS, AngularJS Maintaining Web Applications y Sass and Compass for Designers     
+
+Martes: Pro AngularJS, AngularJS Maintaining Web Applications y Sass and Compass for Designers
+
+Miercoles: Pro AngularJS, AngularJS Maintaining Web Applications y Sass and Compass for Designers
+
+Jueves: Pro AngularJS, AngularJS Maintaining Web Applications y Sass and Compass for Designers
+
+Viernes: Learning Grunt, Diving into WebApi, Pragmatic WCF, Microsoft Team Foundation Server 2015 Cookbook,
+         SQL Server T-SQL Recipes y Beginning SQL Server Reporting Services
+
+Sabado:
+
+--9:00 a 13:00
+	Learning Grunt, Diving into WebApi, Pragmatic WCF
+
+--15:00 a 19:00
+	SQL Server T-SQL Recipes, Microsoft Team Foundation Server 2015 Cookbook y Beginning SQL Server Reporting Services
+
+Domingo:
+
+--9:00 a 13:00
+	Learning Grunt, Diving into WebApi, Pragmatic WCF
+
+--15:00 a 19:00
+	SQL Server T-SQL Recipes, Microsoft Team Foundation Server 2015 Cookbook y Beginning SQL Server Reporting Services
+____________________________________________________________________________________________________________________________________________________________________________________________________
+--Inglés Total--
+Libro 1 pag. 22
+
+--Backend--
+
+**Web Development
+Diving into WebApi pag. 37
+Pro ASP.NET MVC 5 pag. 473
+SignalR Real-time Application Cookbook pag. 104
+
+**Language Features
+Pragmatic WCF pag. 56
+Professional C# 5.0 And .NET.4.5.1 pag. 159
+C# 6.0 and the .NET 4.6 Framework pag. 445
+
+--Devops--
+Microsoft Team Foundation Server 2015 Cookbook pag. 9
+
+--Base de datos--
+Beginning SQL Server Reporting Services pag. 96
+SQL Server T-SQL Recipes pag. 27
+
+--Frontend--
+
+**Programación
+Pro AngularJS pag. 191
+ng-book 2 The Complete Book on Angular 2, Revision 53 pag. 209
+Mastering TypeScript, 2nd Edition pag. 151
+Learning Grunt pag. 206
+
+**Diseño
+Sass and Compass for Designers pag. 30
+[Bootstrap By Example pag. 307]
+
+**Herramientas
+Git and Team Services: Save work with commits [https://www.visualstudio.com/en-us/docs/git/tutorial/commits]
+[Git Essentials pag. 44]
+_______________________________________________________________________
+Proximos Cursos 
+
+--Backend--
+PHP for Absolute Beginners, 2nd Edition --> Practical PHP and MySQL Website Databases --> PHP Objects, Patterns, and Practice, 4th Edition
+Expert ASP.NET Web API 2 for MVC Developers -->  Professional Visual Studio 2013 --> SignalR Real-time Application Cookbook
+Pro ASP.NET MVC 5 --> Pro ASP.NET MVC 5 Platform
+Java Programming-24-Hour-Trainer, 2nd-Edition --> Java® Programming The Object-Oriented Approach--> Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809
+
+--Devops--
+Professional Application Lifecycle Management with Visual Studio 2013 
+
+--Base de datos-- 
+Beginning SQL Server Reporting Services --> SQL Server 2012 Reporting Services Blueprints 2013 --> Pro SQL Server 2012 Reporting Services, 3rd Edition
+
+--Frontend--
+**Programación:
+JavaScript Frameworks for Modern Web Dev --> Javascript for .NET Devlopers
+Pro AngularJs --> AngularJS by Example
+
+**Diseño:
+Bootstrap By Example [Detenido]
+Beginning CSS Preprocessors  --> Bootstrap Site Blueprints Volume II(Después de aprender preprocesadores Less and Sass) 
+			     --> Bootstrap Site Blueprints(Después de aprender preprocesadores Less and Sass)
+
+**Herramientas
+Git Essentials --> GitHub Essentials
+
+_______________________________________________________________________
+Ingles:
+http://www.inglesmundial.com/
+
+_______________________________________________________________________
+Páginas para descargar Libros
+Microsoft: http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies.aspx#GettingStartedwithEntityFramework6CodeFirstusingMVC5
+Wrox: www.wrox.com
+Apress: www.apress.com
+Libros.NET : http://www.dotnetforge.com/category/web-development/
+ebooks-it
+http://ebook-dl.com/
+https://www.syncfusion.com/resources/techportal/ebooks?utm_source=Facebook&utm_medium=FacebookAd&utm_campaign=E-book
+https://ebooks-it.org/search-engine.htm?bform=btitle&page=1&query=JavaScript+Object+Programming
+
+http://avxhome.se/ebooks/programming_development/3429615.html
+http://www.aazea.com/book/jquery-for-designers-beginners-guide-2nd-edition/#download
+Libros de programacion https://www.facebook.com/groups/708134649215062/ 
+http://www.allitebooks.com/web-development/html-html5-css/page/3/
+http://mirknig.su/knigi/programming/27679-mastering-angularjs-for-net-developers-code.html
+
+_______________________________________________________________________
+// Videos tutoriales
+// Cursos capacity
+http://descargadictos.me/downloads/255590/capacity-todos-los-cursos-en-un-post-mega.html
+// Diseño web
+http://www.falconmasters.com/category/cursos/
+https://www.youtube.com/channel/UCyYAW9-9HJo5WH8igIj5QFw
+// Juan  carlos z.
+https://www.youtube.com/channel/UCeSJh3cP6hyfY4km8E2HVmw
+
+_______________________________________________________________________
+http://acciontrabajo.com.mx/votOcdUEc.html
+
+_______________________________________________________________________
+Blogs de programacion 
+// .net framework versiones: http://getdotnet.azurewebsites.net/target-dotnet-platforms.html#
+https://docs.asp.net/en/latest/client-side/yeoman.html
+https://blogs.msdn.microsoft.com/cdndevs/2014/04/09/improve-your-javascript-with-web-essentials-and-jshint/
+_______________________________________________________________________
+
+// El evangelio segun luzbel Libro
+_______________________________________________________________________
+Páginas para buscar empleo:
+robertoG4m3z8
+Hpdc5224--portal empleos
+
+_______________________________________________________________________
+Difresadmin
+cl1ckH5
+pili:mpybj48@hotmail.com
+
+DOMINIO:                idm-mexico.com
+NOMBRE DE USUARIO:      adminer@idm-mexico.com
+PASSWORD:               1RwcjaGF
+FTP HOSTNAME:           ftp.idm-mexico.com
+URL:                    http://www.idm-mexico.com/
+                        http://idm-mexico.com/
+http://www.idm-mexico.com/CRX/
+
+http://www.ecoclimalaboral.com/Consola.aspx
+[13:05:13] Juan Reyes: verempleos
+[13:05:16] Juan Reyes: admin
+
+r0bert0G4m3z8
+
+ 52.89.118.231
+User name    
+      Administrator
+Password f2D-D@kebM
+
+computrabajo
+
+Azure
+http://www.apress.com/9781484210444?gtmf=s
+http://www.apress.com/9781430243953?gtmf=s
+https://www.packtpub.com/networking-and-servers/learning-microsoft-azure
+https://www.packtpub.com/application-development/building-web-services-microsoft-azure
+
+---CURSOS ONLINE---
+http://www.emagister.com/express/desarrollo-aplicaciones-web-asp-net-mvc-4-cursos-3004824.htm
+http://www.euroinnova.mx/Experto-Aspnet-Visual-Studio
+http://www.euroinnova.mx/Analista-Programador-Aspnet
+http://ticapacitacion.com/promociones/mvcjr.html
+http://ticapacitacion.com/home/
+
+Cuenta xamarin: 
+roberto.manuel.balderas.gamez@hotmail.com
+hpdv5-2241lrMari
+
+pili:mpybj48@hotmail.com
+
+
+http://pornohub.su/teenslikeitbig-brazzers-kendall-woods-bambino-get-well-poon-22-10-2016/
+http://pornohub.su/realwifestories-brazzers-aria-alexander-the-accountants-wife-27-07-2015/
+http://hqporner.com/hdporn/82304-unexpected_sex_with_friends_mother.html
+
+https://www.youjizz.com/videos/shower%2c-massage-and-sex-34887641.html --reyna
+http://hqporner.com/hdporn/84827-natural_beauty_is_always_beautiful_4k.html
+http://hqporner.com/hdporn/84545-her_stepbrother_is_sleepwalker.html --jul
+http://hqporner.com/hdporn/81199-hot_winter_fox.html --bere
+http://www.xvideos.com/video6982811/betty_is_a_real_doll#_tabComments
+https://www.youjizz.com/videos/bigtits-teen-blonde-balls-licking-cumshot-19735241.html --
+https://www.youjizz.com/videos/mybabysittersclub---blonde-babysitter-fucks-older-dad-39787281.html --daf
+https://www.youjizz.com/videos/final-exam-slam-session-p1-39807261.html --wm
+
+https://pornohub.su/teenslikeitbig-brazzers-kimmy-granger-naomi-woods-keiran-lee-from-snoring-to-whoring-23-04-2017/ --jazz
