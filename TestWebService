@@ -1,0 +1,6 @@
+https://sandbox-paycash.redefectiva.net/WSPayCashWalmart/Service.asmx
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">   <soap:Body>    <Pago>     <TransactionNumber>12</TransactionNumber>      <TransactionDate></TransactionDate>      <TransactionTime></TransactionTime>      <TransactionType>P</TransactionType>      <StoreNumber>9</StoreNumber>      <MerchantId>9</MerchantId>      <TerminalNumber>9</TerminalNumber>      <CashierNumber>1000</CashierNumber>      <VendorNum>187</VendorNum>      <CurrencyCode>484</CurrencyCode>      <ServiceReference>600100000013500001710032205036</ServiceReference>      <TransactionAmount>135</TransactionAmount>    </Pago>  </soap:Body></soap:Envelope>
+
+Content-Type: text/xml
+SOAPAction: [{"key":"SOAPAction","value":"http://www.paycash.com.mx/Pago","description":""}]
